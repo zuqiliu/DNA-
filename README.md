@@ -7,4 +7,5 @@ DNA测序方法介绍：https://www.bilibili.com/video/BV1oa4y1H7CU?spm_id_from=
 
 学习文献：目前包含徐飞老师分享的文献，备用下载链接：https://share.weiyun.com/T9lfidsL （此链接目前不可用，正在寻找原因，请扫码下载） \
 <img width="62" alt="image" src="https://user-images.githubusercontent.com/91801740/177798652-02e7bf3d-ad21-4db2-81bc-b852e1d6bac1.png">
+
 files：本科生物化学课程相关的讲义
