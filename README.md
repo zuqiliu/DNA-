@@ -9,3 +9,8 @@ DNA测序方法介绍：https://www.bilibili.com/video/BV1oa4y1H7CU?spm_id_from=
 <img width="62" alt="image" src="https://user-images.githubusercontent.com/91801740/177798652-02e7bf3d-ad21-4db2-81bc-b852e1d6bac1.png">
 
 files：本科生物化学课程相关的讲义
+
+### 2022年7月7日学习群添加：
+网易公开课 \
+1.https://open.163.com/newview/movie/free?pid=HGVF0B9NF (分子生物学) \
+2.https://open.163.com/newview/movie/free?pid=OH3T4TJQ9&mid=KH3T4TK32 (DNA测序算法）
