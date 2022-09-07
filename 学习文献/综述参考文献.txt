@@ -1,0 +1,57 @@
+参考文献：
+ Li, J. et al. (2001) Ion-beam sculpting at nanometer length scales.
+Nature 412, 166–169
+
+Stein, D. et al. (2004) Feedback-controlled ion beam sculpting
+apparatus. Rev. Sci. Instrum. 75, 900–905
+
+Heng, J.B. et al. (2005) Stretching DNA using the electric field in a
+synthetic nanopore. Nano Lett. 5, 1883–1888
+
+Stein, D. et al. (2002) Ion-beam sculpting time scales. Phys. Rev. Lett.
+89, 27–30
+
+Brongersma, M.L. et al. (2000) Origin of MeV ion irradiation-induced
+stress changes in SiO2. J. Appl. Phys. 88, 59–64
+
+Fologea, D. et al. (2005) Detecting single-stranded DNA with a solid
+state nanopore. Nano Lett. 5, 1905–1909
+
+Mitsui, T. et al. (2006) Nanoscale volcanoes: accretion of matter at ionsculpted nanopores. Phys. Rev. Lett. 96, 036102
+
+Lo, C.J. et al. (2006) Fabrication of symmetric sub-5 nm nanopores
+using focused ion and electron beams. Nanotechnology 17, 3264–3267
+
+Gordon, R.G. et al. (2003) A kinetic model for step coverage by atomic
+layer deposition in narrow holes or trenches. J. Chem. Vap. Deposition
+9, 73–78
+
+Hausmann, D.M. et al. (2002) Atomic layer deposition of hafnium and
+zirconium oxides using metal amide precursors. Chem. Mater. 14,
+4350–4358
+
+Saleh, O.A. and Sohn, L.L. (2003) An artificial nanopore for molecular
+sensing. Nano Lett. 3, 37–38
+
+Saleh, O.A. and Sohn, L.L. (2004) Biological sensing with an on-chip
+resistive pulse analyzer. In Proceedings of the 26th Annual
+International Conference of the IEEE EMBS San Francisco, CA,
+USA, pp. 2568–2570.
+
+Schmid, H. and Michel, B. (2000) Siloxane polymers for highresolution, high-accuracy soft lithography. Macromolecules 33, 3042–
+3049
+
+Mara, A. et al. (2004) An asymmetric polymer nanopore for single
+molecule detection. Nano Lett. 4, 497–501
+
+Siwy, Z. and Fulinski, A. (2002) Fabrication of a synthetic nanopore ion
+pump. Phys. Rev. Lett. 89, 198103
+
+Heins, E.A. et al. (2005) Detecting single porphyrin molecules in a
+conically shaped synthetic nanopore. Nano Lett. 5, 1824–1829
+
+Harrell, C.C. et al. (2003) Synthetic single-nanopore and nanotube
+membranes. Anal. Chem. 75, 6861–6867
+
+Review TRENDS in Biotechnology Vol.25 No.4
+www.sciencedi
