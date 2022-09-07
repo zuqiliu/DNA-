@@ -1,7 +1,8 @@
 # DNA学习资料
 ## 此库包含DNA存储研讨小组中分享的资料
-
-### 暑期学习安排  
+###2022年9月7日日志
+添加并阅读了一些文献，需要继续学习测序相关知识细节（depth of coverage）\
+### 2022暑期学习安排(已完成)  
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/91801740/180588441-e639b30b-119e-4ce2-a21d-c3b9b809fb54.png">
 
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/91801740/180588425-8d3c444a-3667-4bc4-9c81-c3bf416b5384.png">
