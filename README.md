@@ -3,6 +3,10 @@
 ### 2022年9月7日日志
 
 添加并阅读了一些文献，需要继续学习测序相关知识细节（depth of coverage）
+微软发表的文献较为易读，可以学习文章结构和写法。review需要精读，一边理解测序的理论基础知识。
+
+
+
 ### 2022暑期学习安排(已完成)  
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/91801740/180588441-e639b30b-119e-4ce2-a21d-c3b9b809fb54.png">
 
